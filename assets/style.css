@@ -396,7 +396,7 @@ h6.sub-titulo-info {
 
 
 section.section-5 {
-  background-image: url(/assets/images/img-fundo-4-teste-programador.png);
+  background-image: url('../assets/images/img-fundo-4-teste-programador.png');
     height: 780px;
     background-repeat: no-repeat;
     background-size: contain;
