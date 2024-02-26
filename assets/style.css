@@ -155,7 +155,7 @@ nav .search-icon{
 }
 
 footer{
-  background-image: url('/assets/images/fundo-footer-teste-programador.png.jpg');
+  background-image: url('../assets/images/fundo-footer-teste-programador.png.jpg');
   background-size: cover!important;
 }
 .main-footer {
